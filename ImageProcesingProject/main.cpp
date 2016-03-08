@@ -1,4 +1,4 @@
-//Зорница Чопова [45043]
+// Zornitsa Chopova
 #include"Image.h"
 #include"Color.h"
 #include"LoadImage.h"
